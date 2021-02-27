@@ -109,7 +109,7 @@ input:focus, textarea:focus, select:focus
    text-align: center;
    width: 100%;
    background-clip: padding-box;
-   background-color: rgba(255,255,255,0.82);
+   background-color: rgba(255,255,255,0.59);
    background-image: none;
    border: 0px solid transparent;
    box-sizing: border-box;
@@ -118,7 +118,7 @@ input:focus, textarea:focus, select:focus
 #booknowLayoutGrid2
 {
    box-sizing: border-box;
-   padding: 0px 0px 10px 0px;
+   padding: 10px 0px 10px 0px;
    margin-right: auto;
    margin-left: auto;
 }
@@ -230,7 +230,7 @@ input:focus, textarea:focus, select:focus
    display: table;
    text-align: center;
    width: 100%;
-   background-color: rgba(251,251,251,0.82);
+   background-color: rgba(251,251,251,0.59);
    background-image: none;
    border: 0px solid #CCCCCC;
    box-sizing: border-box;
@@ -325,7 +325,7 @@ width: 100%;}
    text-align: center;
    width: 100%;
    background-clip: padding-box;
-   background-color: rgba(251,251,251,0.82);
+   background-color: rgba(251,251,251,0.59);
    background-image: none;
    border: 0px solid transparent;
    box-sizing: border-box;
@@ -534,7 +534,7 @@ width: 100%;}
    text-align: center;
    width: 100%;
    background-clip: padding-box;
-   background-color: rgba(251,251,251,0.82);
+   background-color: rgba(251,251,251,0.59);
    background-image: none;
    border: 0px solid transparent;
    box-sizing: border-box;
@@ -742,7 +742,7 @@ width: 100%;}
    text-align: center;
    width: 100%;
    background-clip: padding-box;
-   background-color: rgba(251,251,251,0.82);
+   background-color: rgba(251,251,251,0.59);
    background-image: none;
    border: 0px solid transparent;
    box-sizing: border-box;
@@ -950,7 +950,7 @@ width: 100%;}
    text-align: center;
    width: 100%;
    background-clip: padding-box;
-   background-color: rgba(251,251,251,0.82);
+   background-color: rgba(251,251,251,0.59);
    background-image: none;
    border: 0px solid transparent;
    box-sizing: border-box;
@@ -1027,7 +1027,7 @@ width: 100%;}
    text-align: center;
    width: 100%;
    background-clip: padding-box;
-   background-color: rgba(251,251,251,0.82);
+   background-color: rgba(251,251,251,0.59);
    background-image: none;
    border: 0px solid transparent;
    box-sizing: border-box;
@@ -1235,7 +1235,7 @@ width: 100%;}
    text-align: center;
    width: 100%;
    background-clip: padding-box;
-   background-color: rgba(251,251,251,0.82);
+   background-color: rgba(251,251,251,0.59);
    background-image: none;
    border: 0px solid transparent;
    box-sizing: border-box;
@@ -1366,7 +1366,7 @@ width: 100%;}
    background-image: none;
    color: #000000;
    font-family: Arial;
-   font-weight: normal;
+   font-weight: bold;
    font-style: normal;
    font-size: 13px;
    padding: 4px 4px 4px 4px;
@@ -1445,7 +1445,7 @@ width: 100%;}
    text-align: center;
    width: 100%;
    background-clip: padding-box;
-   background-color: rgba(251,251,251,0.82);
+   background-color: rgba(251,251,251,0.59);
    background-image: none;
    border: 0px solid transparent;
    box-sizing: border-box;
@@ -1746,7 +1746,7 @@ width: 100%;}
    text-align: center;
    width: 100%;
    background-clip: padding-box;
-   background-color: rgba(251,251,251,0.82);
+   background-color: rgba(251,251,251,0.59);
    background-image: none;
    border: 0px solid transparent;
    box-sizing: border-box;

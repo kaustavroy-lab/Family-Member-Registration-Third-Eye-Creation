@@ -89,7 +89,7 @@
          offsetx: 0,
          offsety: 0,
          effect: 'none',
-         error_text: '*Please Enter Your Event Date'
+         error_text: '*Please Enter Your Registration Date And Time'
       });
       $("#booknowCombobox1").validate(
       {
