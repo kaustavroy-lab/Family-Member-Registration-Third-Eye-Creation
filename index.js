@@ -91,25 +91,6 @@
          effect: 'none',
          error_text: '*Please Enter Your Registration Date And Time'
       });
-      $("#booknowCombobox1").validate(
-      {
-         required: true,
-         bootstrap: true,
-         type: 'select',
-         disallowfirstchoice: true,
-         color_text: '#000000',
-         color_hint: '#00FF00',
-         color_error: '#FF0000',
-         color_border: '#808080',
-         nohint: false,
-         font_family: 'Arial',
-         font_size: '13px',
-         position: 'topleft',
-         offsetx: 0,
-         offsety: 0,
-         effect: 'none',
-         error_text: '*Required'
-      });
       $("#indexEditbox1").validate(
       {
          required: true,
